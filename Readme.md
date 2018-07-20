@@ -1,8 +1,8 @@
-# _Kayser - Read this:_
+# _Kaiser - Read this:_
 
 ### Bouncy blocks!
 
-Hey Kayser - it was fun talking to you over lunch at Shalom Y'all (love that name). In thinking about how to get the files we were working on over to you, I thought it would be best to put them here.
+Hey Kaiser - it was fun talking to you over lunch at Shalom Y'all (love that name). In thinking about how to get the files we were working on over to you, I thought it would be best to put them here.
 
 This website (github) is a place where programmers can back-up their code. Git is a program that helps with _version control_. Often in programming, you want to be able to undo changes, or easily keep some changes separate from others, and that's what version control lets you do. Look up "version control" on Wikipedia to learn more.
 
